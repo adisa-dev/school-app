@@ -1,1 +1,0 @@
-print('Hello School App')
